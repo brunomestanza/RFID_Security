@@ -1,0 +1,38 @@
+body#corpo{
+	background: #B5B5B5; /*Edição da cor de fundo*/
+}
+
+div#divisao h1{
+	text-align: center; /*Configuração de edição do Titulo*/
+	font-family: Arial;
+	border: #000 solid 1px;	
+	margin-left: 610px;
+	margin-right: 660px;
+	text-align: center;
+	background: white;
+}
+
+div#divisao form#login input#dados{ /*Edição das bordas dos campos de inserção de dados*/
+	border: #000 solid 1px;
+	margin-left: 805px;
+	text-align: center;
+}
+
+div#divisao  form#login input#button{ /*Edição do botão da página de Login*/
+	margin-left: 860px;
+}
+
+div#divisao form#login img#logo{
+	margin-left: 785px;
+	background-color: rgba(0, 0, 0,.4);  /*Configuração de posicionamento e exibição do logotipo*/
+	padding: 5px;
+	margin-top: 25px;
+}
+
+div#divisao h4{
+	text-align: center;
+	border: #000 solid 1px; /*Configuração de edição da linha que mostra o IP*/
+	margin-left: 610px;
+	margin-right: 660px;
+	background: white;
+}

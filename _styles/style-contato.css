@@ -1,0 +1,101 @@
+body{
+	background: #B5B5B5;
+}
+
+div#container{
+	margin: 0 auto;
+	width: 1200px;
+	height: auto;
+	font-family: Arial;
+}
+
+div#container div#topo{
+	background: #333;
+	float: left;
+	width: 100%;
+	height: 205px;
+	margin-top: 5px;
+}
+
+div#container img#image{
+	margin-left: 520px;
+}
+
+div#container div#menu{
+	float: left;
+	width: 100%;
+	height: 35px;
+	background: orange;
+	text-align: center;
+}
+
+div#container div#menu ul{
+	margin: 10px;
+}
+
+div#container div#menu ul li{
+	list-style-type: none;
+	display: inline;
+}
+
+div#container div#menu ul li a:hover{
+	color: black;
+}
+
+div#container div#conteudo{
+	float: left;
+	width: 100%;
+	background: white;
+}
+
+div#container div#conteudo div#postagens{
+	float: left;
+	width: 100%;
+	margin: 10px;
+	padding: 5px;
+	text-align: justify
+}
+
+div#container div#conteudo div#postagens h1{
+	border: #000 solid 1px;
+	margin-right: 890px;
+}
+
+div#container div#rodape{
+	float: left;
+	width: 100%;
+	height: 45px;
+	border-bottom: 1px solid #000;
+}
+
+div#container div#rodape span{
+	float: left;
+	font-size: 14px;
+	padding-top: 16px;
+	margin-left: 300px;
+}
+
+div#container div#conteudo div#contato{
+	margin-left: 5px;
+	margin-bottom: 2px;
+}
+div#container div#conteudo div#contato input{
+	margin-top: 2px;
+	border: #000 solid 1px;
+}
+
+div#container div#conteudo div#contato input[type="text"]{
+	width: 398 px;
+	height: 20px;
+	padding-left: 2px;
+}
+
+div#container div#conteudo div#contato textarea#text{
+	width: 396px;
+	height: 200px;
+}
+
+div#container div#conteudo div#contato textarea{
+	margin-top: 2px;
+	border: #000 solid 1px;
+}
