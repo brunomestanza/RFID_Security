@@ -34,5 +34,4 @@ O projeto possui um servor motor, simbolizando uma trava automátizada de porta,
 
 Bruno Monteiro Mestanza
 
-https://www.linkedin.com/in/bruno-mestanza-a3270b180/
-
+https://www.linkedin.com/in/brunomestanza
